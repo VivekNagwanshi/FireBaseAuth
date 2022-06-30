@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireBase Auth</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="send_opt">Send Opt</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_number">Verify Number</string>
+    <string name="otp_verification">Mobile Number Verification</string>
+    <string name="we_will_send_you_and_an_one_time_password_on_this_mobile_number">We will send you and an one time password on this mobile number</string>
+    <string name="_7898524620">7898524620</string>
+    <string name="get_otp">Send Otp</string>
+</resources>
